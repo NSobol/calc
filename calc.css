@@ -1,0 +1,15 @@
+.calc {
+    width: 400px;
+    margin: 20px auto;
+    background-color: chocolate;
+}
+
+.display {
+    text-align: center;
+    padding: 10px;
+}
+
+.toolbar {
+    text-align: center;
+    padding: 10px;
+}
