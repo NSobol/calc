@@ -40,7 +40,7 @@ let onOperationBtnClick = function (e) {
             rezult = numbersObj.num1 ** (1 / numbersObj.num2);
             break;
     }
-    window.alert(rezult);
+    document.getElementById("rezult").innerHTML = rezult;
 }
 
 let addListenerBtn = function (id) {
